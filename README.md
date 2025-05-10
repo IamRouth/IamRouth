@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Radheshyam Routh.
 - 👀 I’m interested in mainly Deep Learning, Machine Learning, Artificial Intelligence, Distributed Computing, LLM, Voice Recognition, Time Series Analysis.
 - 🌱 I’m currently learning many things but the majority of this converge to the world of Artifical Intelligence.
-- 💞️ I’m looking to collaborate on ... ( Yes, there are something that I want to collaborate .... but till now ... ?)
+- 💞️ I’m looking to collaborate on Multimodal VQA.
 - 📫 How to reach me  mail me radheshyamrouth001@gmail.com .
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Life is hard man but don't be hard to yourself! 
