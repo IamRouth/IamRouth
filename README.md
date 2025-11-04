@@ -30,8 +30,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,latex" />
 </p> -->
 
-### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,r,c,linux,git,github,vscode,anaconda,bash" />
   <br/>
@@ -53,7 +51,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrouth&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=iamrouth&theme=tokyonight&margin-w=10&no-frame=true" />
 </p> -->
-### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamrouth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
