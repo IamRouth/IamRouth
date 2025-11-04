@@ -2,7 +2,7 @@
 <h3 align="center">⚙️ Generative AI | Data Science | Building Smart Agents & Translation Models</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Data+Scientist+in+the+Making+💡;Generative+AI+and+LLM+Enthusiast+🤖;Agentic+AI+and+RAG+Explorer+🧠;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+Making+💡;Generative+AI+and+LLM+Enthusiast+🤖;Agentic+AI+and+RAG+Explorer+🧠;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamrouth&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrouth&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamrouth&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrouth&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrouth&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrouth&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=iamrouth&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
 
@@ -57,14 +57,24 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamrouth/iamrouth/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrouth&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="iamrouth" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github.com/iamrouth/iamrouth/blob/main/assets/wave.svg" width="100%" />
 </p>
 
 <p align="center">⭐ “Keep building. Keep learning. Keep evolving.” ⭐</p>
-
-
-<!---
-IamRouth/IamRouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
